@@ -1,1 +1,1 @@
-print(AOIHDOWID)
+print(AOIHDOWID is a dcpe mod)
